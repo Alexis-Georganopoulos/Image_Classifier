@@ -1,7 +1,7 @@
 # Image Classification using CNNs in PyTorch
 
 This source code is an implementation of a Convolutional Neural Network (CNN) for image classification using PyTorch. The dataset used for this implementation is the CIFAR-10 dataset, which contains 60,000 32x32 color images in 10 classes. The code includes data preprocessing, data splitting, and data loading, as well as the implementation of the CNN.
-To meet the computation needs, the source code it run in Google Colab(using Cuda).
+To meet the computation needs, the source code is run in Google Colab(using Cuda).
 
 ## Libraries
 The following libraries are imported:
