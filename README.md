@@ -4,6 +4,8 @@ This source code is an implementation of a Convolutional Neural Network (CNN) fo
 To meet the computation needs, the source code is run in Google Colab(using Cuda).<br>
 [Run/view the code!](#running-the-code)
 
+![convolution_2d](convolution_2d.gif)
+
 ## Libraries
 The following libraries are imported:
 
